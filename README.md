@@ -1,2 +1,2 @@
-# habit-tracker
+# HopOnCook
 
